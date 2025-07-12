@@ -13,9 +13,9 @@ This is a simple *URL Shortener* project that allows users to convert long URLs 
 
 ## 🛠 Technologies Used
 
-- Frontend: HTML, CSS, JavaScript / React (if used)
-- Backend: Node.js / Express / Python Flask / PHP (mention what you used)
-- Database: MongoDB / MySQL / Firebase / JSON file (as per your project)
+
+- Backend: Node.js / Express  (mention what you used)
+- Database: MongoDB / MySQL  / JSON file (as per your project)
 
 ## 💻 How to Run Locally
 
