@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 
 const urlSchema = new mongoose.Schema({
     shortId:{
+        required:true,
         type: String,
         unique:true,
 
